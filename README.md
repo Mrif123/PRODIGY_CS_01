@@ -10,3 +10,6 @@ Also designed a Graphical User Interface using Tkinter so that the user can inpu
 
 The glimpses of the GUI designed as attached below:
 ![Screenshot (210)](https://github.com/user-attachments/assets/926aeb31-72d6-4991-ba32-bfd616204505)
+
+![Screenshot (211)](https://github.com/user-attachments/assets/ca825f59-a9b3-4698-b7c5-07c4c2d47042)
+
