@@ -9,3 +9,4 @@ The Ciphertext can later be decrypted to the plaintext with the same key or shif
 Also designed a Graphical User Interface using Tkinter so that the user can input a message through the message box and select the mode whether to encrypt or decrypt by providing a shift or key value.
 
 The glimpses of the GUI designed as attached below:
+![Screenshot (210)](https://github.com/user-attachments/assets/926aeb31-72d6-4991-ba32-bfd616204505)
